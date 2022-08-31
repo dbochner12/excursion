@@ -10,3 +10,25 @@ h1 {
     color: white;
     text-align: center;
 }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.sectionHead {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#logo {
+    text-align: right;
+    color: gray;
+}
